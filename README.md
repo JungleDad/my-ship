@@ -1,20 +1,4 @@
-```text
-       .-''''-.
-      /        \
-     /_        _\
-    // \      / \\
-    |\__\    /__/|
-     \    ||    /
-      \        /
-       \  __  /
-        '.__.'
-         |  |
-         |  |    CRYPTO GUILD DAO
-         |  |    XVIII century
-        /____\
-       /      \
-      /_/    \_\
-# 📜 Маніфест Crypto Guild — Сузір'я DeFi на борту `my-ship` 📜
+# 📜 Manifest of Crypto Guild DAO — aboard `my-ship` 📜
 
 > "Хай коди й протоколи будуть вільні, як вітер у вітрилах нашого DAO!"  
 > — Маніфест Crypto Guild, рік нашого лордування DeFi MMXXV
@@ -25,36 +9,32 @@
 
 ### 🏴‍☠️ Хто ми є?
 
-Ми, лицарі та лицарки крипто-гільдії XVIII ст., що бороздять моря Web3 та DeFi у пошуках істини, прибутковості та справедливості в коді.
-
-`my-ship` — наш фрегат у бурхливих хвилях централізованого світу.
+Ми, лицарі та лицарки Crypto Guild XVIII ст., що бороздять моря Web3 та DeFi у пошуках істини, прибутковості та справедливості в коді.
 
 ### 💰 Кодекс гільдії
 
-- Всі баги — на суд громадськості.
-- Всі контракти — відкриті, прозорі, децентралізовані.
-- Всі ідеї — належать спільноті.
+- Всі баги — на суд громади.
+- Всі контракти — відкриті, прозорі.
+- Всі ідеї — належать DAO.
 
 ### 🔗 Що тут є?
 
 - 📜 Смарт-контракти (Solidity)
-- 🪙 Прототипи DApp
+- 🪙 DApp-прототипи
 - ⚖️ DAO-механіки
 - 🚀 NFT-хроніки мандрів
 
 ### 🧭 Як приєднатись?
 
-1. Форкай `my-ship`.
-2. Внось пропозиції.
+1. Форкай.
+2. Пропонуй.
 3. Пиши Issues.
-4. Голосуй через Pull Requests.
+4. Голосуй Pull Request'ами.
 
 ---
 
-З повагою та криптовітанням,  
-**Автор `my-ship`, Crypto Guild DAO-пірат**
-
-_"За децентралізацію, за свободу, за коміти — хай шторм буде на боці open-source."_
+З повагою,  
+Crypto Guild DAO-пірат
 
 ---
 
@@ -62,33 +42,44 @@ _"За децентралізацію, за свободу, за коміти �
 
 ### 🏴‍☠️ Who are we?
 
-We, the knights and dames of Crypto Guild XVIII century, sailing through the seas of Web3 and DeFi.
-
-`my-ship` is our frigate in the stormy waves of the centralized world.
+We, knights and dames of Crypto Guild XVIII century, sailing through the seas of Web3 and DeFi.
 
 ### 💰 Guild Code
 
 - All bugs — to the court of the community.
-- All contracts — open, transparent, decentralized.
-- All ideas — belong to the community.
+- All contracts — open, transparent.
+- All ideas — belong to the DAO.
 
 ### 🔗 What's inside?
 
-- 📜 Smart contracts in Solidity
+- 📜 Smart contracts (Solidity)
 - 🪙 DApp prototypes
 - ⚖️ DAO mechanics
 - 🚀 NFT chronicles of our voyages
 
 ### 🧭 How to join?
 
-1. Fork `my-ship`.
-2. Submit proposals.
+1. Fork.
+2. Propose.
 3. Write Issues.
 4. Vote via Pull Requests.
 
 ---
 
-With respect and a cryptosmirk,  
-**Author of `my-ship`, Crypto Guild DAO-pirate**
+With respect,  
+Crypto Guild DAO-pirate
 
-_"For decentralization, for freedom, for commits — and let the storm be on the side of open-source."_
+---
+
+## ⚖ License
+
+MIT — Open to the world, free as the seas.
+```text
+       ____  _____  ___   ____  _____
+      / ___|| ____|/ _ \ / ___|| ____|
+      \___ \|  _| | | | | |    |  _|
+       ___) | |___| |_| | |___ | |___
+      |____/|_____|\___/ \____||_____|
+
+     CRYPTO GUILD DAO — XVIII Century
+        Manifest of Open-Source & DeFi
