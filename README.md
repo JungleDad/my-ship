@@ -75,11 +75,18 @@ Crypto Guild DAO-pirate
 
 MIT — Open to the world, free as the seas.
 ```text
-       ____  _____  ___   ____  _____
-      / ___|| ____|/ _ \ / ___|| ____|
-      \___ \|  _| | | | | |    |  _|
-       ___) | |___| |_| | |___ | |___
-      |____/|_____|\___/ \____||_____|
-
-     CRYPTO GUILD DAO — XVIII Century
-        Manifest of Open-Source & DeFi
+       .-''''-.
+      /        \
+     /_        _\
+    // \      / \\
+    |\__\    /__/|
+     \    ||    /
+      \        /
+       \  __  /
+        '.__.'
+         |  |
+         |  |    CRYPTO GUILD DAO
+         |  |    XVIII century
+        /____\
+       /      \
+      /_/    \_\
